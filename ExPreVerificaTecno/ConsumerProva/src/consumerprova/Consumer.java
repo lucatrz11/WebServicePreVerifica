@@ -113,7 +113,6 @@ public class Consumer {
     public int getInfoProva(String user, String descr) {
         int status = 0;
         result = "";
-
         try {
             URL serverURL;
             HttpURLConnection service;
