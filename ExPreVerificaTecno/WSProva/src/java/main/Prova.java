@@ -28,6 +28,7 @@ public class Prova extends HttpServlet {
     private boolean connected;
 
     // attivazione servlet (connessione a DBMS)
+    
     public void init() {
         String url = dbms_url + database;
         try {
