@@ -29,6 +29,7 @@ public class ConsumerProva {
         String file = "entry.xml";//file per fare il parse dopo la get
         String file1 = "entry1.xml";//file con body per la post
 
+        
         boolean fine = false;
         BufferedReader inFromUser = new BufferedReader(new InputStreamReader(System.in));
         String scelta = "";
