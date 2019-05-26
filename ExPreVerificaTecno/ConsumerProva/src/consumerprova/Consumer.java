@@ -32,7 +32,6 @@ public class Consumer {
     private String prefix = "http://localhost:8080/WSProva/";
     //http://localhost/Trezzi/Orari/index.php?
     //    //tecnologieorari.altervista.org/index.php?
-
     Consumer() {
         result = "";
     }
